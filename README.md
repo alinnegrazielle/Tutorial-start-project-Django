@@ -89,12 +89,6 @@ INSTALLED_APPS = [
 python3 manage.py runserver
 ```
 
-
-
-```bash
-
-```
-
 ## 🎲 Criando nosso Data Base
 
 * Com seus modelos  já criados, precisamos criar as migrações 
