@@ -29,7 +29,7 @@ Depois só conferir esses arquivos, explorando a pasta criada.
 
 * Com o ambiente virtual criado, precisamos ativá-lo:
 ```bash
-source myvenv/bin/activate
+source myenv/bin/activate
 ```
 * Para desativar, utilize:
 ```bash
