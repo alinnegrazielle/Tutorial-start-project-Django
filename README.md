@@ -6,9 +6,13 @@
 * Abra o terminal, navegue até a pasta que vai querer criar seu projeto, em Documentos, por exemplo.
 
 * Já na pasta Documentos, digite mkdir <nome da pasta para o projeto>.
-Esse comando vai criar uma pasta com o nome que você quiser.
+Digite sem as chaves.
+Esse comando vai criar uma pasta com o nome que você der.
     
-
+* Em seguida vamos entrar na pasta do projeto, com o comando:
+```bash
+cd <nome da pasta que você criou>
+```    
 
 ## Criando Ambiente Virtual
 
