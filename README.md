@@ -5,7 +5,10 @@
 
 * Abra o terminal, navegue até a pasta que vai querer criar seu projeto, em Documentos, por exemplo.
 
-* Já na pasta Documentos, digite mkdir <nome da pasta para o projeto>.
+* Já na pasta Documentos, digite:
+```bash
+mkdir <nome da pasta que você criou>
+```   
 Digite sem as chaves.
 Esse comando vai criar uma pasta com o nome que você der.
     
