@@ -21,6 +21,8 @@ cd <nome da pasta que você criou>
 
 #### Virtualenv do Python:
 Dentro da pasta que ficará o projeto, precisamos criar um ambiente virtual, vai ser nossa **virtualenv do python**.
+Antes de tudo, você precisa se certificar de já ter o Python instalado na sua máquina. E também o pip, gerenciador 
+de pacotes do Python. Com o Python e o pip instalados, podemos iniciar a produção...
 
 * A virtualenv consegue criar diferentes ambientes na mesma máquina, evitando interferência de um projeto com outro.
 
