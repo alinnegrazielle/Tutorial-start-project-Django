@@ -21,6 +21,7 @@ cd <nome da pasta que você criou>
 
 #### Virtualenv do Python:
 Dentro da pasta que ficará o projeto, precisamos criar um ambiente virtual, vai ser nossa **virtualenv do python**.
+
 Antes de tudo, você precisa se certificar de já ter o Python instalado na sua máquina. E também o pip, gerenciador 
 de pacotes do Python. Com o Python e o pip instalados, podemos iniciar a produção...
 
@@ -29,6 +30,15 @@ de pacotes do Python. Com o Python e o pip instalados, podemos iniciar a produç
 * Utilizaremos o pip (gerenciador de pacotes do python) para instalar a virtualenv, com o comando:
 ```bash
 $ sudo pip3 install virtualenv
+```
+Dependendo da sua versão do pip, pode ser que baste digitar o mesmo comando, trocando pip3 por pip.
+Para saber qual a versão dele, digite:
+```bash
+pip --version
+```
+Caso não tenha efeito, tente:
+```bash
+pip3 --version
 ```
 Com isso, ele instala o executável do python
 e também os seus gerenciadores de pacote.
