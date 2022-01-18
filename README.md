@@ -7,7 +7,7 @@
 
 * Já na pasta Documentos, digite:
 ```bash
-mkdir <nome da pasta que você criou>
+mkdir <nome da nova pasta para o projeto>
 ```   
 Digite sem as chaves.
 Esse comando vai criar uma pasta com o nome que você der.
