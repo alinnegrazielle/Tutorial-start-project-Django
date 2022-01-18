@@ -38,15 +38,9 @@ deactivate
 
 ## Instalando Django e dependências
 
-* Agora precisaremos instalar as bibliotecas necessárias para
-fazer nosso sistema funcionar, instalando o Django:
+* Para instalar Django, utilize o comando:
 ```bash
 pip install django
-```
-* Criaremos o requirements.txt com Django versão compatível.
-Nesse arquivo ficarão todas as dependências do projeto:
-```bash
-pip3 install -r requirements.txt
 ```
 * Para seguir com as instalações, vamos agora trabalhar diretamente
 no editor, utilize o comando, para abrir o projeto com o Vs code:
