@@ -1,6 +1,12 @@
 
 # Quickstart de Projeto Django
 
+## Criando o repositório para o Projeto
+
+* Abra o terminal, navegue até a pasta que vai querer criar seu projeto, em Documentos, por exemplo.
+
+* Já na pasta Documentos, digite mkdir <nome da pasta para o projeto>
+
 ## Criando Ambiente Virtual
 
 #### Virtualenv do Python:
