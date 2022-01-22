@@ -1,5 +1,5 @@
 
-# Quickstart de Projeto Django
+# Startando um Projeto Django no Linux
 
 ## Criando o repositório para o Projeto
 
