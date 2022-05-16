@@ -76,6 +76,10 @@ no editor, utilize o comando, para abrir o projeto com o Vs code:
 ```bash
 code .
 ```
+* Salvando todas as bibliotecas instaladas até o momento:
+```bash
+pip freeze > requirements.txt
+```
 #### Iniciando o projeto
 
 ```bash
