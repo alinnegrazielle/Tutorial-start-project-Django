@@ -69,7 +69,7 @@ deactivate
 
 * Para instalar Django, utilize o comando:
 ```bash
-pip install django
+python3 -m pip install Django
 ```
 * Para seguir com as instalações, vamos agora trabalhar diretamente
 no editor, utilize o comando, para abrir o projeto com o Vs code:
